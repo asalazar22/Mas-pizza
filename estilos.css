@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to right,green,white,red);
+    
+}
+.posicion{
+    padding:  4px;
+    display: inline-block;
+}
+.centrado{
+		    margin:10px auto;
+		    display:block;
+    }
+footer{
+    font-size:20px;
+    
+}
+.fa-phone, .fa-envelope-o {
+    color: black;
+}
+.titulo{
+    font-size: 40px;
+}
+
+
+
